@@ -1,0 +1,259 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Cars & Minivans",
+    "Subtitle": "",
+    "ImagePath": "Assets/carsandminivans.png",
+    "Description" : "Group Description: This category belongs to cars and mini vans. These cars are for family and they provide efficency, reliability and power.",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "Yaris",
+        "Subtitle": "$15,250 starting",
+        "ImagePath": "Assets/yaris.jpg",
+         "Description" : "Item Description:The subcompact Yaris is offered in a 3 or 5-door car, with room for all of your friends. ",
+        "Content" : "A budget car that feels every bit of its low sticker price, the Yaris is an afterthought in a competitive segment. A four-speed automatic and five-speed manual are available as mates for the Yaris 106-hp 1.5-liter inline-four, and an SE model is available for those seeking a sportier ride. Good visibility and the standard Toyota Entune infotainment system are some of the Yaris best features. Gripes aside, we canot argue with Toyota famous marketing language for the Yaris",
+        "DetailContent" : "No one wants to be the kid at the front of the bus who loses his lunch money to the school bullies. Its sad for the Toyota Yaris, then, that its so easily beaten up on by others in its segment. Our testing shows it to be slower, louder, less comfortable, and less useful than the other kids on the small-car bus, including, inexplicably, some of those riding in the back of the sales race. They eat its lunch."
+
+	  },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "Yaris iA",
+        "Subtitle": "$15,950 starting",
+        "ImagePath": "Assets/yarisia.jpg",
+        "Description" : "Item Description:With its standard, versatile 60/40 split fold-down rear seat, you'll be packing more in your Yaris iA sedan than you thought possible. ",
+        "Content" : "In spite of its Mazda roots, the iA is instantly recognizable as a member of the Toyota lineup thanks to a large hexagonal grille accented by a thin strip of chrome trim and sharp, elongated headlights. The Mazda influence is a lot more pronounced out back, and from certain angles the iA looks like a scaled-down Mazda3.",
+        "DetailContent" : "The iA boasts a clean, elegant cockpit with a three-spoke multi-function steering wheel, chrome-look accents and a simple, function-oriented instrument cluster made up of a single analog gauge flanked by two screens. Buyers after a more sporty feel can order the sedan with faux carbon fiber trim on the steering wheel, the center console and the door panels at an extra cost."
+	  },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Avalon",
+        "Subtitle": "$33,250 starting",
+        "ImagePath": "Assets/avalon.jpg",
+        "Description" : "Item Description:The new Avalon full-size car, combines technology with luxury and comfort with spaciousness ",
+        "Content" : "The Avalons sculpted and swanky styling, luxuriously modern interior, and surprising agility give even pricier rivals a run for their money. A 268-hp 3.5-liter V-6 and six-speed automatic are smooth and responsive. An efficient hybrid version is also offered, pairing a 2.5-liter four-cylinder with an electric motor and sending 200 hp through a CVT. For long-distance cruising in style and comfort, the Avalon is hard to beat-and its dashing looks will charm more than just the AARP set.",
+        "DetailContent" : "Whereas hybrid powertrains are relatively common among mid-size family sedans (including the Toyota Camry, Ford Fusion, Hyundai Sonata, and even the latest Chevrolet Malibu), go up one level and they are suddenly very hard to find. There are no hybrid version of the Ford Taurus, the Dodge Charger, the Chevrolet Impala, or the Nissan Maxima. The Buick LaCrosse offers the eAssist mild-hybrid powertrain (for now a new LaCrosse is on its way for 2017), but only the Toyota Avalon comes as a full hybrid version. Other large hybrid sedans are restricted to luxury nameplates."
+		 },
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "Sienna",
+        "Subtitle": "$29,750 starting",
+        "ImagePath": "Assets/sienna.jpg",
+         "Description" : "Item Description: The Sienna appeals to a wide range of families looking for roomy, comfortable, and high-quality transport-and it succeeds. ",
+        "Content" : "Its the Camry of minivans: The Sienna appeals to a wide range of families looking for roomy, comfortable, and high-quality transport-and it succeeds. A 296-hp 3.5-liter V-6 paired to an eight-speed automatic drives the front or-in a segment exclusive-all four wheels, a bonus when the weather turns nasty. An intercom allows front-seat occupants to address the third row, and a Blu-Ray entertainment display keeps the kids in line. Unfortunately, amusement is not on the menu for enthusiasts.",
+        "DetailContent" : "The minivan has been the Rodney Dangerfield of the auto world for most of its 33-year existence. Theories abound as to why the minivan never gets the respect it deserves despite being the worlds most versatile transportation appliance. Could it be because the mini appellation no longer fits, especially for the 200-inch-long Toyota Sienna reviewed here? Some blame the sliding doors. Others insist the beveled-shoebox shape is sexless."
+      },
+      {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "86",
+        "Subtitle": "$26,255 starting",
+        "ImagePath": "Assets/86.jpg",
+        "Description" : "Item Description:With a new aggressive front end, LED lighting and Granluxe interior accents, the 86 sports car ensures the driving experience is a premium one. ",
+        "Content" : "The car formerly known as the Scion FR-S is now the Toyota 86 and is tasked with keeping the brands sports-car flame burning in this crossover-crazed world. The 2.0-liter flat-four makes 205 hp when paired to the smooth-shifting six-speed manual. With the optional six-speed automatic, however, power drops to 200 hp-but we doubt you all be able to tell. Rear-wheel drive and a balanced chassis provide endless fun on twisty roads. When cruising around town, the racy styling will turn heads.",
+        "DetailContent" : "Although the FR-S nameplate is dead, euthanized by Toyota along with the whole Scion brand, the vehicle lives on as the 2017 Toyota 86-the same moniker the car has always carried in several markets outside of the United States. Further muddying its identity, the 86 name change coincides with a mid-cycle refresh it shares with its mechanical twin, the 2017 Subaru BRZ. As with the Subaru, a host of subtle updates to the Toyota bring a touch more performance but do little to alter its driving soul."
+      },
+	    {
+        "UniqueId": "Group-1-Item-6",
+        "Title": "Corolla",
+        "Subtitle": "$18,500 starting",
+        "ImagePath": "Assets/corolla.jpg",
+        "Description" : "Item Description:Corolla is a compact car known for Toyota quality and real value. All five trim levels offer a smooth, quiet ride. ",
+        "Content" : "The feature-rich Corolla is an exceptional value, but the one feature it doesnot offer is thrills. A 1.8-liter four-cylinder makes 132 hp-140 hp in the LE Eco model-and drives the front wheels through a six-speed manual or a CVT. A 6.1-inch touchscreen infotainment system with Bluetooth is standard but can be upgraded to a 7.0-inch unit with navigation. All Corollas get modern technology such as adaptive cruise control, lane-keeping assist, automatic high beams, and automated emergency braking.",
+        "DetailContent" : "The Toyota Corolla keeps us humble. Not only when we are driving one-that would keep anyone ego in check-but when we think about the lowly Corolla being not just the best-selling compact car in America, but the best-selling automotive nameplate of all time. Toyota sold almost 1000 of the things every day in 2015 in the United States alone-weekends and holidays included. This, despite the fact that the Corolla has never once appeared on a single Car and Driver 10Best Cars list. In our eyes, the Corolla has always been a safe choice but never a terribly interesting one. Millions of Americans chose it anyway. Like we said, humbling."
+      },
+	    {
+        "UniqueId": "Group-1-Item-7",
+        "Title": "Corolla iM",
+        "Subtitle": "$18,750 starting",
+        "ImagePath": "Assets/corollaim.jpg",
+         "Description" : "Item Description:Smooth in the city and agile on those mountain roads, the Corolla iM hatchback car, is truly ready for it all. ",
+        "Content" : "If the iM looks familiar, its likely because it shares many components with the Toyota Auris thats sold across Europe. It looks a lot sportier than the Auris, however, thanks to a muscular front fascia characterized by blacked-out headlights, a strip of piano black trim at the bottom of the hood and a model-specific grille with honeycomb inserts. The grille creates a visual link between the iM and the rear-wheel drive FR-S coupe.",
+        "DetailContent" : "Past the front end, the iM boasts side skirts, sharp LED tail lamps that stretch far into the hatch and a discreet roof-mounted spoiler. All told, the hatchback is unabashedly aimed at a young, image-conscious target audience."
+      },
+	    {
+        "UniqueId": "Group-1-Item-8",
+        "Title": "Camry",
+        "Subtitle": "$23,070 starting",
+        "ImagePath": "Assets/camry.jpg",
+        "Description" : "Item Description:Camry has been the best-selling car in America for 13 of the last 14 years with seating for five, and available 4-cylinder, V6, and hybrid engines. Discover all the features of the new Toyota Camry and find your ideal mid-size car at a Toyota dealership near you. ",
+        "Content" : "For the majority of people to whom a car is merely an appliance, the Camry meets their needs perfectly. Those seeking a zestier ride should look elsewhere. A 178-hp four-cylinder is standard, while a 268-hp V-6 offers some serious zip. Both have a six-speed automatic; a manual is not available. There a hybrid, rated up to 38 mpg on the highway. The XSE aims at enthusiasts with a stiffer suspension and some extra styling bits, but its steering is numb, its braking and handling unexceptional.",
+        "DetailContent" : "The Toyota Camry is the Bud Light of family sedans: its inoffensive, reliable, reasonably priced, and gets the job done. And much like that mainstream, low-calorie brew, the American public continues to purchase the Camry in droves. The Japanese family sedan has held the title of Americas best-selling car for 14 years, and, as of this writing, the Camry is on track to once again wear the crown at the close of the 2016 calendar year."
+      }
+
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "Trucks",
+    "Subtitle": "",
+    "ImagePath": "Assets/toyotatrucks.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "Tacoma",
+        "Subtitle": "$24,120 starting",
+        "ImagePath": "Assets/tacoma.jpg",
+         "Description" : "Item Description:Tacoma is offered in two body types: Access Cab and Double Cab. An unbeatable compact pickup, off-road or on. ",
+        "Content" : "The Tacoma ruggedly handsome looks and available off-road gear almost redeem its tight interior and so-so fuel economy. A 2.7-liter four-cylinder making 180 lb-ft of torque is standard and pairs with a five-speed manual or a six-speed automatic, a 3.5-liter V-6 (265 lb-ft) is optional and mates to a six-speed manual or a six-speed automatic. When properly equipped, the V-6 can tow 6800 lb. For serious adventurers, a TRD Pro trim adds a bevy of appearance upgrades and a heavy-duty suspension",
+        "DetailContent" : "Order tacos, and its inevitable that you all be asked whether you did like a soft- or hard-shell tortilla. The same is true for tacos of the four-wheeled variety. Want a soft-shell Toyota Tacoma? Stick with the city-slickin Limited and TRD Sport models. But if you want a hard-shell truck formed with chunks of broken glass for added crunch? Look no further than the Tacoma burly TRD Pro, which returns to the lineup for 2017 after a one-year hiatus, ready to climb up, jump over, and slog through the worst that this worlds unpaved lands can throw its way."
+ 
+	  },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "Tundra",
+        "Subtitle": "$30,020 starting",
+        "ImagePath": "Assets/tundra.jpg",
+        "Description" : "Item Description:Tundra, Toyota's full-size half-ton pickup truck, offers an available 5.7-liter V8 with 381 horsepower, and a new fuel-efficient 4.6-liter V8 with 310 horsepower and 327 lb-ft of torque. ",
+        "Content" : "Try as it might, the Tundra is not quite up to the challenge of the competition despite its bold styling and a handsomely finished interior. Its available in a myriad of body styles, bed lengths, and rear- or four-wheel drive. Powertrains include either a standard 310-hp 4.6-liter V-8 or an optional 381-hp 5.7-liter V-8, both engines team up with a six-speed automatic transmission. Maximum towing rates at 10,500 pounds; maximum payload is 2060 pounds.",
+        "DetailContent" : "Toyotas Tundra remains an outlier in the full-size-pickup segment, a bit of an iconoclast choice compared with the entrenched domestic rigs from Chevrolet, Ford, and Ram. It is a nice product, however, with plenty of capability and a chunky, tough look. The trucks primary weakness is in the low number of configurations offered, although this strategy makes sense given the Tundra minuscule relative sales numbers versus the segment leaders. Against the flood of different ways one can order an American truck, the Tundra offers a regular cab, a Double Cab extended cab, and a Crewmax four-full-door variant, each with a fixed bed choice except for the lower-grade Double Cabs, which are available in 6.6- and 8.1-foot lengths. The CrewMax can be paired only with the 5.6-foot bed, while the regular cab is long-bed only. Two V-8 engines are offered, a 310-hp 4.6-liter and a 381-hp 5.7-liter, and both come with a six-speed automatic transmission with your choice of rear- or four-wheel drive. For this review, we revisited the 5.7-liter engine in a 2016 Tundra 4x4 Limited."
+      }
+    
+    ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "Crossovers & SUVs",
+    "Subtitle": "",
+    "ImagePath": "Assets/toyotacrossovers.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "4Runner",
+        "Subtitle": "$34,010 starting",
+        "ImagePath": "Assets/4runner.jpg",
+        "Description" : "Item Description: In a world built for crossovers, the 4Runner is one of the last mid-size SUVs to share DNA with a pickup truck. It has a solid rear axle and body-on-frame construction. ",
+        "Content" : "In a world built for crossovers, the 4Runner is one of the last mid-size SUVs to share DNA with a pickup truck. That great for drivers who need a 5000-lb tow rating or who spend weekends off-roading; for those accustomed to the smooth ride and swanky interiors of car-based crossovers, however, the 4Runner may fall short. Available with just one powertrain-a 4.0-liter V-6 with 270 hp and 278 lb-ft mated to a five-speed automatic transmission-this beast is outdated and a little sluggish.",
+        "DetailContent" : " The Toyota 4Runner remains what it has always been, an SUV with pickup-truck DNA. It has a solid rear axle and body-on-frame construction. Order four-wheel drive, and you get a two-speed transfer case with a low range in the SR5 and Trail models. (The Limited gets a full-time all-wheel-drive system with no low range.) This is how SUVs used to be built, when gas cost less than a buck a gallon, back before the term crossover entered the automotive lexicon. Most automakers have abandoned this original SUV formula in favor of the lighter, carlike, more fuel-efficient crossover. The 4Runners closest competitor, the Nissan Xterra, was discontinued last year. But the 4Runner remains true to its roots and is now one of the last of its species."
+      },
+      {
+        "UniqueId": "Group-3-Item-2",
+        "Title": "Rav4",
+        "Subtitle": "24,910 starting",
+        "ImagePath": "Assets/rav4.jpg",
+        "Description" : "Item Description:RAV4 is Toyota's versatile and efficient crossover SUV. It's available in four trim levels: LE, XLE, SE and Limited. ",
+        "Content" : "Its angled headlamps and sharply creased bodywork give the RAV4 an assertive presence, but donot be fooled-under the skin, its a practical, comfortable, and easygoing ute. A 176-hp 2.5-liter four and a six-speed automatic are standard with either front or all-wheel drive. A hybrid, which returned an impressive 31 mpg in our tests, is also available and gets standard all-wheel drive. A 6.1-inch infotainment system is standard on LE, SE, and XLE trims, Limited models get a 7.0-inch unit.",
+        "DetailContent" : "Toyota practically invented the compact crossover with the first RAV4 in the mid-1990s, and its still a big player in the segment with the fourth-generation RAV4 that has been around since 2012. Like its predecessors, the 2017 RAV4 is a small, car-based SUV with five seats standard (there no third row offered in this generation) and either front- or all-wheel drive. Also as it did in the 90s, the RAV4 competes head-on with the Honda CR-V, although plenty of new entries have popped up in the ensuing years including the Ford Escape, Kia Sportage, Hyundai Tucson, and Mazda CX-5. With merely average performance and relatively plain styling, the current RAV4 is not a standout among its competitive set. Even so, the RAV4 reputation for practicality, comfort, and reliability means its giving the CR-V a run for its money in the 2016 sales race: Toyota has sold 286,809 RAV4s through October to the CR-Vs 293,799 units."
+      },
+      {
+        "UniqueId": "Group-3-Item-3",
+        "Title": "Sequoia",
+        "Subtitle": "$45,460 starting",
+        "ImagePath": "Assets/sequoia.jpg",
+        "Description" : "Item Description: The SUV that time forgot-Toyota Sequoia-offers a cavernous interior and flexible cargo space, but not much else.",
+        "Content" : "The SUV that time forgot-Toyota Sequoia-offers a cavernous interior and flexible cargo space, but not much else. A 5.7-liter V-8 drives the rear wheels through a six-speed automatic transmission; four-wheel drive is optional. Standard infotainment with navigation provides adequate connectivity, and the top Platinum trim gets adaptive cruise control and blind-spot monitoring. The Sequoia is simply outclassed by its competition, though, and is in need of an overhaul to remain relevant.",
+        "DetailContent" : "We picked up this Silver Sky metallic 2016 Toyota Sequoia Platinum on a Thursday. That be Throwback Thursday in social-media parlance, which is a fitting coincidence, in that few new vehicles are more of a throwback than this big lug. Introduced in 2008, the second-generation Sequoia has changed so little that we are tempted to repeat, verbatim, large chunks of our 2008 Sequoia Platinum review, written in the fall of 2007. The silver 2008 and 2016 Sequoias we tested literally look identical. But while the truck hasnt evolved, our view of it has-because the world has changed, and expectations have risen."
+      },
+      {
+        "UniqueId": "Group-3-Item-4",
+        "Title": "Landcruiser",
+        "Subtitle": "$84,325 starting",
+        "ImagePath": "Assets/landcruiser.jpg",
+        "Description" : "Item Description: The Land Cruiser is a world-wide legend, known from Aruba to Zimbabwe to be one of the most competent SUVs ever made.",
+        "Content" : "The Land Cruiser is a world-wide legend, known from Aruba to Zimbabwe to be one of the most competent SUVs ever made. Featuring a sturdy body-on-frame design and a 5.7-liter 381-hp V-8 engine with an eight-speed automatic and full-time four-wheel drive, it offers serious off-roading ability. Creature comforts are addressed, too, with three rows of leather seating for eight (the front seats are ventilated), Toyota Entune infotainment, and wireless headphones for the rear entertainment system.",
+        "DetailContent" : "Some long-running automotive nameplates are constantly updated in an attempt to remain relevant. Not the Toyota Land Cruiser. The Land Cruiser scoffs at change.Aside from ditching its old-school solid front axle and venerated inline six-cylinder back in 1998, the Cruiser updates have largely focused on creature comforts and sheetmetal revisions. When the current iteration (a J200 in Toyota-speak) appeared in 2008 with a 5.7-liter V-8 replacing the previous 4.7-liter V-8, it had been nearly a decade in the making. Toyota performed a mild refresh in 2013, whereupon it took the opportunity to cram it chock-full of nearly every infotainment and electronic safety-nanny feature in the Toyota canon."
+      },
+      {
+        "UniqueId": "Group-3-Item-5",
+        "Title": "Highlander",
+        "Subtitle": "30,630 starting",
+        "ImagePath": "Assets/highlander.jpg",
+        "Description" : "Item Description:With a standard 3rd row and seating for 8, plus innovative safety features, a powerful engine and the latest technology, this mid-size SUV lets you enjoy the ride no matter where you are going. ",
+        "Content" : "Inconspicuous and sensible, the Highlander has what it takes to haul up to eight in quiet comfort. A 185-hp 2.7-liter four-cylinder or optional 270-hp 3.5-liter V-6 both pair with a six-speed automatic; front-wheel drive is standard and all-wheel drive is optional. A hybrid combines the V-6 with two electric motors; we saw 24 mpg in our test. The Highlander provides an adequate driving experience, but its more focused on interior niceties and storage. An updated Highlander debuts in November.",
+        "DetailContent" : "If the automobile market were a neighborhood potluck, Toyota would always be invited. It may not always serve the spiciest or most interesting dishes, but what Toyota brings to the party usually satisfies the masses. And the refreshed 2017 Highlander and Highlander hybrid are the baked chicken and mashed potatoes of the automotive world. For 2017, however, Toyota has added a bit more spice to the recipe in the form of more powerful and efficient V-6 and hybrid powertrains, while also updating the popular SUV styling. It even cooked up a new variation in the form of the Highlander SE."
+      }
+     
+    ]
+  },
+  {
+    "UniqueId": "Group-4",
+    "Title": "FCV",
+    "Subtitle": "",
+    "ImagePath": "Assets/toyotafcv.jpg",
+    "Description" : "",
+    "Items":
+    [
+     
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Title": "Mirai",
+        "Subtitle": "$57,500",
+        "ImagePath": "Assets/mirai.jpg",
+         "Description" : "Item Description:In Japanese, mirai means future, and the Mirai is the future of motoring: It runs solely on hydrogen and its only emissions are water. Expected later in 2015, the Mirai initially will be sold or leased just in California, where the infrastructure for hydrogen fueling exists. Range is around 300 miles, refueling will take about five minutes, and fuel is included for the first three years of ownership. The powertrain has an eight-year/100,000-mile warranty to allay early-adopter concerns. ",
+        "Content" : "Mirai is Japanese for the future. This is Toyota way of saying that its sedan most resembling SpongeBob SquarePants on a skateboard runs on hydrogen and produces no emissions. The Mirai is the first fuel-cell car offered for sale, not just lease. (The conceptually similar Honda FCX Clarity and Hyundai Tucson FCEV remain corporate property through and after the duration of their leases.) The standard rap on fuel-cell vehicles-that the technology is always five years away-expires when eight California dealers deliver 200 Mirais before the end of the year, followed by another 2800 cars over the next two years. The $58,325 base price isnt much of a return on the 23 years of development and 5680 patents that Toyota invested in this future, but milestones never come cheap.",
+        "DetailContent" : "To test not only the Mirai but also the first phase of infrastructure that supports it, we visited hydrogen filling stations in the greater Los Angeles region and drove north to the Mojave Desert for performance measurements. Toyota engineer, future thinker, and fuel-cell authority Jackie Birdsall served as chaperone and tour guide without whining about our preemptive range anxiety, barrage of tech questions, or blind-curve photographic maneuvers."
+      },
+      {
+        "UniqueId": "Group-4-Item-2",
+        "Title": "Prius",
+        "Subtitle": "$24,685",
+        "ImagePath": "Assets/prius.jpg",
+        "Description" : "Item Description:The hybrid that started it all. Now available in four amazing models the Toyota Prius combines stylish design with innovative features and true fuel efficiency for a car that unlike any other. ",
+        "Content" : "With its combination of space and efficiency, the Prius is quite compelling-in our experience, 50 mpg is achievable, even at near-80-mph speeds. In the fun-to-drive department, though, it falls short, and the brakes feel vague. The cabin is mostly quiet, but the tires clomp loudly over broken roads. The seats are comfortable; fold down the rear ones for 66 cu ft of cargo room. A responsive touchscreen controls the infotainment system. The Prius Eco model rates at 58 mpg city and 53 mpg highway.",
+        "DetailContent" : "Back in 2004, the Toyota Prius earned a spot on our 10Best Cars list. It didnot offer any of the dynamic virtues that normally get us excited, but the second-generation Prius entertained us in a different way with its video-game-like efficiency displays. We surprised ourselves by finding enjoyment in feathering the throttle to minimize using the gasoline engine, thereby reaching those magic 50-plus-mpg numbers."
+      },
+	  {
+        "UniqueId": "Group-4-Item-3",
+        "Title": "prius C",
+        "Subtitle": "$19,560 starting",
+        "ImagePath": "Assets/priusc.jpg",
+        "Description" : "Item Description:With its city-friendly size and an EPA-estimated 53 city mpg rating, the hybrid hatchback car, offers the highest city mpg of any vehicle without a plug. ",
+        "Content" : "Take the uninspired underpinnings of the Toyota Yaris and mix with it an even less powerful version of the Prius hybrid powertrain and you get the Prius C. The C rides on a shorter wheelbase than the regular Prius, and the C combined horsepower, at 99, is less than the 134 hp of the Prius. The EPA rates the C at the same 50 mpg combined as the bigger Prius, but coaxing that level of fuel economy will drain all driving pleasure from the equation.",
+        "DetailContent" : "What New: Like its Yaris platform-mate, the Prius C cosmetics have had some attention for 2015, most notably a new grille reminiscent of the restyled Camry sedan. The freshened fascia sports LED projector-beam headlights, and LED lights have also been added at the rear. Upgraded materials improve the interior appearance, but perhaps the most compelling element of this freshening is the addition of three hot bright colors. Electric Lime Metallic (shown on this test car) may suggest the presence of performance that the Prius C simply does not possess, but its shimmering iridescence adds an element of visual fun."
+      },
+	  {
+        "UniqueId": "Group-4-Item-4",
+        "Title": "Prius Prime",
+        "Subtitle": "$27,100 staring",
+        "ImagePath": "Assets/priusprime.jpg",
+        "Description" : "Item Description:Prius Prime helps you maximize your efficiency. With more battery capacity and a more powerful electric motor, you won't have to worry about going out of range. Choose between full electric and hybrid power and go ever farther. ",
+        "Content" : "Fans of efficient driving now have another option: the Prius Prime plug-in hybrid. Electric motors and a four-cylinder gas engine team with a larger battery than the regular Prius, yielding up to 25 miles of electric-only range; its 124 MPGe rating beats the Chevy Volt 106 MPGe. An 11.6-inch touchscreen infotainment system is standard. Behind the wheel, the Prius Prime feels quite nimble, smoothly taking curves; its ride is compliant, too, and its steering is among the best, hybrid or not.",
+        "DetailContent" : "Against expectations, Toyota has made a decent business out of the Prius, a car whose picture should appear in the dictionary next to the word frump. Assuming the market doesnot collapse by the end of the year, Toyota will sell well over 100,000 vehicles wearing the nameplate in 2016, a figure that is split among three models: the entry-level Prius C; the wagonoid Prius V; and the wavy-whacky new Prius, redesigned just last year by people obviously on psychotropic drugs. Henceforth, beginning with the 2017 model, Toyota is calling last year new Prius the Prius liftback. Why the name change? To make room for yet another Prius family member, the Prius Prime, essentially the plug-in version of the Prius liftback that, ahem, also has a hatchback."
+      },
+	  {
+        "UniqueId": "Group-4-Item-5",
+        "Title": "Prius V",
+        "Subtitle": "$26,675",
+        "ImagePath": "Assets/priusv.jpg",
+         "Description" : "Item Description:The new eco-friendly Prius v, combines remarkable versatility with exceptional gas mileage and super-low emissions. ",
+        "Content" : "Blending the usefulness of a station wagon and the fuel economy of a hybrid, the Prius V might be the ultimate utility vehicle. With the rear seats folded, it offers 67 cubic feet of cargo space-more than some SUVs. Drive it with the lightest of right feet and you might see as much as 44 mpg in the city. The downside: The Prius V lacks any semblance of driving dynamics. Instead, they are replaced with the sleep-inducing attributes you might expect from such an appliance.",
+        "DetailContent" : "The Prius V is the big-and-tall Toyota Prius, the one with a huge back seat and 34 cubic feet of cargo space (67 cubic feet with the rear seat folded). And, try as we might, we canot get it to fit into any particular segment. It not a conventional wagon, crossover, or minivan, but it does combine elements of all of those vehicle types."
+      }
+    ]
+  },
+ 
+  {
+    "UniqueId": "Group-5",
+    "Title": "Upcoming Cars",
+    "Subtitle": "",
+    "ImagePath": "Assets/toyotaupcomingcar.jpg",
+    "Description" : " ",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-5-Item-1",
+        "Title": "Concept Car",
+        "Subtitle": "",
+        "ImagePath": "Assets/concept-vehicles.jpg",
+         "Description" : "Coming soon",
+        "Content" : "",
+        "DetailContent" : "DETAIL WILL BE UPLOADED SOON ........."
+      },
+      {
+        "UniqueId": "Group-5-Item-2",
+        "Title": "C-HR",
+        "Subtitle": "",
+        "ImagePath": "Assets/c-hr.jpg",
+        "Description" : "Item Description: Coupe High-Rider, despite this little utes having four doors and riding rather low for a crossover.",
+        "Content" : "C-HR stands for Coupe High-Rider, despite this little utes having four doors and riding rather low for a crossover. A turbo 2.0-liter four pumps out 144 hp and teams with a CVT. Oddly, the C-HR is front-drive only; all-wheel drive is not an option. Safety tech includes a forward-collision warning system with pedestrian detection and automatic emergency braking, lane-departure warning with steering assist, automatic high beams, and adaptive cruise control. Look for the C-HR in spring 2017.",
+        "DetailContent" : "With the Scion brand consigned to the dustbin, Toyota slid its new, Scion-intended C-HR small crossover into its mainstream lineup. Of course, the C-HR was always planned to sell as a Toyota in other markets, such as Europe (where that market production version was shown in Geneva early this year). Look, just because the lifted-coupe thing has not been cool to us since Eagle was an American Motors brand doesnot mean that other folks donot find it impossibly hip. Just ask the Germans. If the Japanese want to ape some of that perceived Teutonic snap, who are we to discourage them from making a vehicle with a name that stands for Coupe High Rider?"
+      }
+     
+    ]
+  }
+]
+}

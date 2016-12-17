@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARAIN</Machine>
+    <WindowsUser>Tehseen</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c5c02f73-afcd-4f36-aaa0-dfbfe6e66f98</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\toyota.exe">
+      <PackagePath>toyota.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\224041-Toyota-Toyota_GT86-GT86-car-sunset-red_cars-sheep-farm.png">
+      <PackagePath>Assets\224041-Toyota-Toyota_GT86-GT86-car-sunset-red_cars-sheep-farm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\carsandminivans.png">
+      <PackagePath>Assets\carsandminivans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SplashScreen-L.png">
+      <PackagePath>Assets\SplashScreen-L.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SplashScreen-M.png">
+      <PackagePath>Assets\SplashScreen-M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SplashScreen-S.png">
+      <PackagePath>Assets\SplashScreen-S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyota-logo-150.scale-100.png">
+      <PackagePath>Assets\toyota-logo-150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyota-logo-30.png">
+      <PackagePath>Assets\toyota-logo-30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyota_PNG1947.png">
+      <PackagePath>Assets\toyota_PNG1947.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Common\StoreLogo.scale-100.png">
+      <PackagePath>Common\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\4runner.jpg">
+      <PackagePath>Assets\4runner.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\86.jpg">
+      <PackagePath>Assets\86.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\avalon-hybrid.jpg">
+      <PackagePath>Assets\avalon-hybrid.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\avalon.jpg">
+      <PackagePath>Assets\avalon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\c-hr.jpg">
+      <PackagePath>Assets\c-hr.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\camry-hybird.jpg">
+      <PackagePath>Assets\camry-hybird.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\camry.jpg">
+      <PackagePath>Assets\camry.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\coaster.jpg">
+      <PackagePath>Assets\coaster.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\concept-vehicles.jpg">
+      <PackagePath>Assets\concept-vehicles.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\corolla.jpg">
+      <PackagePath>Assets\corolla.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\corollaim.jpg">
+      <PackagePath>Assets\corollaim.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\Hiace.jpg">
+      <PackagePath>Assets\Hiace.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\highlander-hybrid.jpg">
+      <PackagePath>Assets\highlander-hybrid.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\highlander.jpg">
+      <PackagePath>Assets\highlander.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\landcruiser.jpg">
+      <PackagePath>Assets\landcruiser.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\mirai.jpg">
+      <PackagePath>Assets\mirai.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\prius.jpg">
+      <PackagePath>Assets\prius.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\priusc.jpg">
+      <PackagePath>Assets\priusc.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\priusprime.jpg">
+      <PackagePath>Assets\priusprime.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\priusv.jpg">
+      <PackagePath>Assets\priusv.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\rav4-hybrid.jpg">
+      <PackagePath>Assets\rav4-hybrid.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\rav4.jpg">
+      <PackagePath>Assets\rav4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\sequoia.jpg">
+      <PackagePath>Assets\sequoia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\sienna.jpg">
+      <PackagePath>Assets\sienna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\tacoma.jpg">
+      <PackagePath>Assets\tacoma.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyotacrossovers.jpg">
+      <PackagePath>Assets\toyotacrossovers.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyotafcv.jpg">
+      <PackagePath>Assets\toyotafcv.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyotatrucks.jpg">
+      <PackagePath>Assets\toyotatrucks.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\toyotaupcomingcar.jpg">
+      <PackagePath>Assets\toyotaupcomingcar.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\tundra.jpg">
+      <PackagePath>Assets\tundra.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\yaris.jpg">
+      <PackagePath>Assets\yaris.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\Assets\yarisia.jpg">
+      <PackagePath>Assets\yarisia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\starter.xbf">
+      <PackagePath>starter.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tehseen\Documents\Visual Studio 2013\Projects\toyota\toyota\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

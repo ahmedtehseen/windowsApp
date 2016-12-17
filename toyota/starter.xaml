@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="toyota.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:toyota"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="LayoutRoot"  >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/DarkGray.jpg"/>
+        </Grid.Background>
+        <Grid Margin="0,30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="790"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0">
+                <Border BorderBrush="Black" Grid.Row="0" BorderThickness="1" Width="1200">
+                    <Image x:Name="ImageSource" AutomationProperties.Name="ImageSource" VerticalAlignment="Top" Stretch="Fill"  Height="780" Width="1200" Source="Assets/86.jpg" >
+                    </Image>
+                </Border>
+            </StackPanel>
+            <Grid x:Name="Input" Grid.Row="1" Margin="0,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="playSlideshow" Grid.Row="1"  Margin="0,0,10,0" Click="playSlideshow_Click" Content="play"  />
+                    <Button x:Name="pauseSlideshow" Grid.Row="1"  Margin="0,0,10,0" Click="pauseSlideshow_Click" Content="pause"/>
+                    <Button x:Name="previousItem" Grid.Row="1" Margin="0,0,10,0" Click="previousItem_Click" Content="previous" />
+                    <Button x:Name="nextItem" Grid.Row="1"  Margin="0,0,10,0" Click="nextItem_Click" Content="next" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+
+</Page>
